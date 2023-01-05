@@ -151,4 +151,33 @@ main{
 
 
 /* resume styles */
+.resume-content{
+    display: flex;
+    flex:24px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
+
+.resume-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+
+.sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+
+
+}
+.description{
+color: #757575;
+
+}
